@@ -52,7 +52,6 @@ To run the notebooks, you need Python installed along with the following key lib
 This study utilizes data from the **Center for the Built Environment (CBE) Occupant Survey**.
 
   * Due to privacy and licensing agreements, the raw dataset may not be fully shared in this repository.
-  * Researchers interested in the CBE dataset should contact the Center for the Built Environment at UC Berkeley directly.
+  * Researchers interested in the CBE dataset/original report should contact the Center for the Built Environment at UC Berkeley directly.
 
 
-```
